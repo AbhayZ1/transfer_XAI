@@ -57,3 +57,11 @@ This project draws upon concepts from the following research paper:
 ## Project Structure
 
 This repository is a result of an internship. Feel free to explore and build upon this code. For any further query please make sure to connect me on social media.
+
+![roc_curve](https://github.com/user-attachments/assets/5330a15a-6c7d-4df5-b081-c6cc176aee6e)
+![occlusion_sensitivity_pneumonia](https://github.com/user-attachments/assets/360e6432-c35a-4980-9bac-e949e60307fb)
+![occlusion_sensitivity_normal](https://github.com/user-attachments/assets/629c72e6-7d58-4693-91a0-59c3054636c1)
+![lime_visualization](https://github.com/user-attachments/assets/03028932-17f9-4e6d-9bd9-c7a622bfb1fc)
+![gradcam_visualization](https://github.com/user-attachments/assets/c5403bf8-a782-4737-afd8-ccabdf0e10c0)
+![confusion_matrix](https://github.com/user-attachments/assets/6943bfff-66b2-43a1-8718-85726a8c54f1)
+![training_history](https://github.com/user-attachments/assets/10b4b490-dec1-4bed-aa82-9078c7bf6fe3)
